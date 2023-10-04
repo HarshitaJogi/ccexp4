@@ -1,0 +1,25 @@
+/* styles.css */
+
+/* ... (previous styles) */
+
+.result-container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin: 50px auto;
+    max-width: 600px;
+}
+
+.result-info {
+    margin-top: 20px;
+}
+
+.result-info p {
+    margin-bottom: 15px;
+    line-height: 1.5;
+}
+
+.result-info strong {
+    color: #007bff;
+}
